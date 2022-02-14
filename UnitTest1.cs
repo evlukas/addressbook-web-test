@@ -9,6 +9,7 @@ namespace addressbook_web_test
         [TestMethod]
         public void TestMethod1()
         {
+            var greeting = "Father!";
         }
     }
 }
